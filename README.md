@@ -95,7 +95,7 @@ Run on a Kaggle Notebook with GPU enabled (simplest — `kagglehub` auth is auto
 - Swap in the full OpenFWI training data
 - Benchmark a decoder-free ViT backbone against the current CNN
 - Add horizontal-flip TTA and EMA weights
-- Train per-family specialist models and ensemble, once the base model and dataset size are solid
+- Train per-family specialist models and ensemble, once the base model and dataset size are  solid
 
 ## Acknowledgements
 
