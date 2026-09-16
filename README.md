@@ -1,6 +1,6 @@
 # Geophysical Waveform Inversion (Yale/UNC-CH — Kaggle)
 
-A PyTorch baseline for the [Yale/UNC-CH Geophysical Waveform Inversion](https://www.kaggle.com/competitions/waveform-inversion) Kaggle competition: predicting subsurface velocity maps from simulated seismic waveform recordings using a CNN encoder-decoder.
+A PyTorch baseline for the [Yale/UNC-CH Geophysical Waveform Inversion](https://www.kaggle.com/competitions/waveform-inversion) Kaggle competition: predicting subsurface velocity maps from simulated seismic waveform recordings using a CNN encoder-decoder .
 
 ## Problem
 
